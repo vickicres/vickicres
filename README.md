@@ -19,7 +19,7 @@ I'm always eager to learn new skills, challenge myself with new tesks and implem
 <br>
 
 ### My Coding Skills:<br>
-React.JS | Next.JS | TypeScript | Redux | Styled-Components | Material UI | JavaScript | HTML | CSS |  BootStrap | Node.JS | SQL | Github | VSCode | Firbase | REST API | JSON | JSX | Responsive Design | UX/UI Design |
+React.JS | Next.JS | TypeScript | Redux | Styled-Components | Material UI | HTML | CSS | JavaScript | BootStrap | Node.JS | SQL | Github | Firbase | REST API | JSON | Responsive Design
 
 ### My Professional Skills:<br>
 Problem Solving | Communications Skills | Team-Work | Creativity | Attention to Details | Time Management.
