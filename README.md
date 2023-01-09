@@ -25,7 +25,6 @@ React.JS | Next.JS | TypeScript | Redux | Styled-Components | Material UI | HTML
 Problem Solving | Communications Skills | Team-Work | Creativity | Attention to Details | Time Management.
 
 ### Do I Sound Like a Good Fit For Your Team?
-<br>
 📫 How to reach me: ***vickicres88@gmail.com*** or through my linkedIn (link above).
 
 <p align="center">
