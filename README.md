@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm ✨ Vicki Crescencio ✨, I'm a Frontend Developer/Email Developer.
+### I'm ✨ Vicki Crescencio ✨, I'm a Frontend Developer/Email Developer.
 
 ### And I'm Open to Job Offers! :tada: 
 
@@ -9,7 +9,7 @@ I'm ✨ Vicki Crescencio ✨, I'm a Frontend Developer/Email Developer.
 
 <img width="40%" align="right" alt="developer" src="https://img.freepik.com/free-vector/custom-style-script-website-optimization-coding-software-development-female-programmer-cartoon-character-working-adding-javascript-css-code-vector-isolated-concept-metaphor-illustration_335657-2789.jpg?w=2000&t=st=1673037703~exp=1673038303~hmac=81fc90524c45f80abcdd7586e0d0cda401fef365ef47969e5b6571e4444bd7fe" />
 
-***About Me:***<br>
+### About Me:<br>
 I'm a passionate, motivated, self-taught ***Frontend Developer | Email developer***, I also have a design background as well.
 <br>
 I graduated from two different universities, from two different countries, on two different continents, all in an effort to further improve myself and hone my skills as an individual. 
@@ -18,15 +18,15 @@ I graduated from two different universities, from two different countries, on tw
 I'm always eager to learn new skills, challenge myself with new tesks and implementing new things every day!
 <br>
 
-***My Coding Skills:***<br>
-***React.JS*** | ***Next.JS*** | ***TypeScript*** | ***Redux*** | ***Styled-Components*** | ***Material UI*** | ***JavaScript*** | HTML | CSS |  BootStrap | ***Node.JS*** | SQL | Github | VSCode | Firbase | REST API | JSON | JSX | Responsive Design | UX/UI Design |
+### My Coding Skills:<br>
+React.JS | Next.JS | TypeScript | Redux | Styled-Components | Material UI | JavaScript | HTML | CSS |  BootStrap | Node.JS | SQL | Github | VSCode | Firbase | REST API | JSON | JSX | Responsive Design | UX/UI Design |
 
-***My Professional Skills:***<br>
+### My Professional Skills:<br>
 Problem Solving | Communications Skills | Team-Work | Creativity | Attention to Details | Time Management.
 
-***Do I Sound Like a Good Fit For Your Team?***
+### Do I Sound Like a Good Fit For Your Team?
 <br>
-📫 How to reach me: vickicres88@gmail.com or through my linkedIn (link above).
+📫 How to reach me: ***vickicres88@gmail.com*** or through my linkedIn (link above).
 
 <p align="center">
   <span align="center" class="d-flex">
