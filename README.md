@@ -12,6 +12,7 @@
 ### About Me:<br>
 I'm a passionate, motivated, self-taught ***Frontend Developer | Email developer***, I also have a design background as well.
 <br>
+<br>
 I graduated from two different universities, from two different countries, on two different continents, all in an effort to further improve myself and over come my skills as an individual. 
 <br>
 <br>
