@@ -38,9 +38,9 @@ Problem Solving | Communications Skills | Team-Work | Creativity | Attention to 
     <img title="TypeScript" alt="TypeScript" height=40
       src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png">
     <img title="React.JS" alt="React.js" height=55 src="https://cdn.auth0.com/blog/react-js/react.png">
-    <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg">
+<!--     <img title="Next.JS" alt="Next.js" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/nextjs.jpg"> -->
     <img title="Material UI" alt="Material UI" height=40 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7qvkwyXoEp63-8fLF6wm3bzxqypXoVGXCxaovfVezQNX5SVZVxluRocCTioU5PGtE3IA&usqp=CAU">
-    <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/styled-components2.png">
+<!--     <img title="Styled-Components" alt="Styled Components" height=40 src="https://github.com/AhmedTohamy01/AhmedTohamy01/blob/master/img/styled-components2.png"> -->
     <img title="Redux" alt="Redux" height=40 src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png">
     <img title="Node" alt="Node" height=50 src="https://lh6.googleusercontent.com/proxy/RHjBRTqkFA6mU5L4KbOV8QoVlqCdY960ZfeHJDxaZioSPJFlACaHcmKQOrOwGgKp2St0K9RLAxcVis1U1SEYXAXJAUaJa2XI-la5-4u9pS14ZhiyH_ozLUx0nGSvQwVW93nBYhAf9uyxml4aN5czkslm04D42cfJ=s0-d">
     <img title="Bootstrap" alt="Bootstrap" height=40
